@@ -119,3 +119,7 @@ The provided pretrained models are from the Hugging Face model hub, specifically
 
 Feel free to fork this repository and submit pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
+THIS WHOLE PROJECT BELONGS TO ENG. HISHAM HAROON and i copied it 
+
+https://github.com/h9-tect/table_parse_using_table_transformers/tree/main
+
